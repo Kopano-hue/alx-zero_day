@@ -1,1 +1,1 @@
-*CLASS*
+<sub><sup>Class</sup></sub>
